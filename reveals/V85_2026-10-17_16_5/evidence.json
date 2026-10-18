@@ -1,0 +1,13 @@
+{
+ "commit": "06b89634ba9b0dd2cd4c2189e55561feae68f4dc",
+ "game_id": "V85_2026-10-17_16_5",
+ "hash": "5641b55dd7370db3d397fa326fc2aa4192d9fb30f1f63cec8cd48d143672b1c7",
+ "minutes_before_stop": 15,
+ "note": null,
+ "push_event_id": "24408211863",
+ "pushed_at": "2026-10-17T12:44:41+00:00",
+ "revealed_at": "2026-10-18T15:06:06+00:00",
+ "source": "GitHub events API (PushEvent created_at)",
+ "stop_time": "2026-10-17T15:00:00+02:00",
+ "valid": true
+}

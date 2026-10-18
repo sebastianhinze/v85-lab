@@ -1,0 +1,709 @@
+{
+ "code_commit": "43dca3c",
+ "code_dirty": false,
+ "condition_legs_known": 8,
+ "crowd_at": "2026-10-17T12:44:00+00:00",
+ "crowd_label": "prediction time",
+ "date": "2026-10-17",
+ "game_id": "V85_2026-10-17_16_5",
+ "legs": [
+  {
+   "leg": 1,
+   "starters": [
+    {
+     "horse_name": "Zätamustangen",
+     "number": 1,
+     "p_crowd": 0.038,
+     "p_model": 0.048,
+     "value": 1.24
+    },
+    {
+     "horse_name": "S.G.Empress",
+     "number": 2,
+     "p_crowd": 0.415,
+     "p_model": 0.346,
+     "value": 0.84
+    },
+    {
+     "horse_name": "Cashman J.R.",
+     "number": 3,
+     "p_crowd": 0.318,
+     "p_model": 0.289,
+     "value": 0.91
+    },
+    {
+     "horse_name": "Four White E.G.",
+     "number": 4,
+     "p_crowd": 0.032,
+     "p_model": 0.051,
+     "value": 1.57
+    },
+    {
+     "horse_name": "Steady Roc",
+     "number": 5,
+     "p_crowd": 0.005,
+     "p_model": 0.01,
+     "value": null
+    },
+    {
+     "horse_name": "Crowe Motion",
+     "number": 6,
+     "p_crowd": 0.119,
+     "p_model": 0.152,
+     "value": 1.28
+    },
+    {
+     "horse_name": "Global Enjoy",
+     "number": 7,
+     "p_crowd": 0.002,
+     "p_model": 0.009,
+     "value": null
+    },
+    {
+     "horse_name": "Kapten Nemo",
+     "number": 8,
+     "p_crowd": 0.009,
+     "p_model": 0.016,
+     "value": 1.68
+    },
+    {
+     "horse_name": "Dalens Elvis",
+     "number": 9,
+     "p_crowd": 0.002,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Nadal B.R.",
+     "number": 10,
+     "p_crowd": 0.06,
+     "p_model": 0.072,
+     "value": 1.21
+    }
+   ]
+  },
+  {
+   "leg": 2,
+   "starters": [
+    {
+     "horse_name": "Ghostgirl",
+     "number": 1,
+     "p_crowd": 0.002,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Realize'em",
+     "number": 2,
+     "p_crowd": 0.19,
+     "p_model": 0.186,
+     "value": 0.98
+    },
+    {
+     "horse_name": "Direction Face",
+     "number": 3,
+     "p_crowd": 0.11,
+     "p_model": 0.082,
+     "value": 0.75
+    },
+    {
+     "horse_name": "Good Reads",
+     "number": 4,
+     "p_crowd": 0.032,
+     "p_model": 0.053,
+     "value": 1.65
+    },
+    {
+     "horse_name": "Geisha Road Grif",
+     "number": 5,
+     "p_crowd": 0.175,
+     "p_model": 0.141,
+     "value": 0.8
+    },
+    {
+     "horse_name": "Ki Ti Vi",
+     "number": 6,
+     "p_crowd": 0.003,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Glory Forever",
+     "number": 7,
+     "p_crowd": 0.033,
+     "p_model": 0.04,
+     "value": 1.23
+    },
+    {
+     "horse_name": "Havana Heaven",
+     "number": 8,
+     "p_crowd": 0.124,
+     "p_model": 0.127,
+     "value": 1.02
+    },
+    {
+     "horse_name": "Sweet Celebration",
+     "number": 9,
+     "p_crowd": 0.015,
+     "p_model": 0.023,
+     "value": 1.53
+    },
+    {
+     "horse_name": "Pralines",
+     "number": 10,
+     "p_crowd": 0.139,
+     "p_model": 0.096,
+     "value": 0.69
+    },
+    {
+     "horse_name": "Ajlexes Gourmand",
+     "number": 11,
+     "p_crowd": 0.068,
+     "p_model": 0.086,
+     "value": 1.25
+    },
+    {
+     "horse_name": "Global Deadline",
+     "number": 12,
+     "p_crowd": 0.031,
+     "p_model": 0.043,
+     "value": 1.38
+    },
+    {
+     "horse_name": "Mary Wadd",
+     "number": 13,
+     "p_crowd": 0.004,
+     "p_model": 0.009,
+     "value": null
+    },
+    {
+     "horse_name": "Ecuador Broline",
+     "number": 14,
+     "p_crowd": 0.017,
+     "p_model": 0.025,
+     "value": 1.44
+    },
+    {
+     "horse_name": "Sonesta",
+     "number": 15,
+     "p_crowd": 0.058,
+     "p_model": 0.074,
+     "value": 1.28
+    }
+   ]
+  },
+  {
+   "leg": 3,
+   "starters": [
+    {
+     "horse_name": "Carpaccio",
+     "number": 1,
+     "p_crowd": 0.035,
+     "p_model": 0.058,
+     "value": 1.68
+    },
+    {
+     "horse_name": "Emerald Broline",
+     "number": 2,
+     "p_crowd": 0.206,
+     "p_model": 0.141,
+     "value": 0.68
+    },
+    {
+     "horse_name": "Set it off H.C.",
+     "number": 3,
+     "p_crowd": 0.067,
+     "p_model": 0.068,
+     "value": 1.01
+    },
+    {
+     "horse_name": "Umpteen",
+     "number": 4,
+     "p_crowd": 0.002,
+     "p_model": 0.009,
+     "value": null
+    },
+    {
+     "horse_name": "Västerbo MagicMike",
+     "number": 5,
+     "p_crowd": 0.003,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Sensational Doc",
+     "number": 6,
+     "p_crowd": 0.078,
+     "p_model": 0.082,
+     "value": 1.05
+    },
+    {
+     "horse_name": "Iulius Zet",
+     "number": 7,
+     "p_crowd": 0.003,
+     "p_model": 0.009,
+     "value": null
+    },
+    {
+     "horse_name": "You to Gangster",
+     "number": 8,
+     "p_crowd": 0.033,
+     "p_model": 0.047,
+     "value": 1.45
+    },
+    {
+     "horse_name": "Allant Express",
+     "number": 9,
+     "p_crowd": 0.031,
+     "p_model": 0.054,
+     "value": 1.74
+    },
+    {
+     "horse_name": "Five Billion",
+     "number": 10,
+     "p_crowd": 0.29,
+     "p_model": 0.276,
+     "value": 0.95
+    },
+    {
+     "horse_name": "Green Dream",
+     "number": 11,
+     "p_crowd": 0.006,
+     "p_model": 0.012,
+     "value": 1.92
+    },
+    {
+     "horse_name": "Ultimate Scotch",
+     "number": 12,
+     "p_crowd": 0.246,
+     "p_model": 0.235,
+     "value": 0.96
+    }
+   ]
+  },
+  {
+   "leg": 4,
+   "starters": [
+    {
+     "horse_name": "Borups Victory",
+     "number": 1,
+     "p_crowd": 0.751,
+     "p_model": 0.681,
+     "value": 0.91
+    },
+    {
+     "horse_name": "Chestnut",
+     "number": 2,
+     "p_crowd": 0.038,
+     "p_model": 0.049,
+     "value": 1.27
+    },
+    {
+     "horse_name": "Flotilla",
+     "number": 4,
+     "p_crowd": 0.002,
+     "p_model": 0.01,
+     "value": null
+    },
+    {
+     "horse_name": "Caviar From Mine",
+     "number": 5,
+     "p_crowd": 0.002,
+     "p_model": 0.01,
+     "value": null
+    },
+    {
+     "horse_name": "Competivo",
+     "number": 6,
+     "p_crowd": 0.063,
+     "p_model": 0.088,
+     "value": 1.41
+    },
+    {
+     "horse_name": "High on Pepper",
+     "number": 7,
+     "p_crowd": 0.122,
+     "p_model": 0.112,
+     "value": 0.92
+    },
+    {
+     "horse_name": "Joe Dalton",
+     "number": 8,
+     "p_crowd": 0.003,
+     "p_model": 0.01,
+     "value": null
+    },
+    {
+     "horse_name": "Bengan",
+     "number": 9,
+     "p_crowd": 0.017,
+     "p_model": 0.03,
+     "value": 1.73
+    },
+    {
+     "horse_name": "Eolo Jet",
+     "number": 10,
+     "p_crowd": 0.002,
+     "p_model": 0.011,
+     "value": null
+    }
+   ]
+  },
+  {
+   "leg": 5,
+   "starters": [
+    {
+     "horse_name": "Sangviks Lynet",
+     "number": 1,
+     "p_crowd": 0.038,
+     "p_model": 0.05,
+     "value": 1.33
+    },
+    {
+     "horse_name": "Grisle Best G.L.",
+     "number": 2,
+     "p_crowd": 0.125,
+     "p_model": 0.135,
+     "value": 1.07
+    },
+    {
+     "horse_name": "Marodin",
+     "number": 3,
+     "p_crowd": 0.002,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Alm Nordstjernen",
+     "number": 4,
+     "p_crowd": 0.164,
+     "p_model": 0.148,
+     "value": 0.9
+    },
+    {
+     "horse_name": "Lill Viking",
+     "number": 5,
+     "p_crowd": 0.004,
+     "p_model": 0.009,
+     "value": null
+    },
+    {
+     "horse_name": "Storm Annsgal",
+     "number": 6,
+     "p_crowd": 0.044,
+     "p_model": 0.055,
+     "value": 1.23
+    },
+    {
+     "horse_name": "Trollbalder",
+     "number": 7,
+     "p_crowd": 0.003,
+     "p_model": 0.009,
+     "value": null
+    },
+    {
+     "horse_name": "Lannem Pär",
+     "number": 8,
+     "p_crowd": 0.3,
+     "p_model": 0.258,
+     "value": 0.86
+    },
+    {
+     "horse_name": "Grisle Kongen G.L.",
+     "number": 9,
+     "p_crowd": 0.157,
+     "p_model": 0.12,
+     "value": 0.76
+    },
+    {
+     "horse_name": "Briskeby Pilen",
+     "number": 10,
+     "p_crowd": 0.109,
+     "p_model": 0.119,
+     "value": 1.09
+    },
+    {
+     "horse_name": "Ersa Frej",
+     "number": 11,
+     "p_crowd": 0.007,
+     "p_model": 0.013,
+     "value": 1.69
+    },
+    {
+     "horse_name": "Eldida",
+     "number": 12,
+     "p_crowd": 0.003,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Ellbert",
+     "number": 13,
+     "p_crowd": 0.026,
+     "p_model": 0.041,
+     "value": 1.61
+    },
+    {
+     "horse_name": "Hulte Sixten",
+     "number": 14,
+     "p_crowd": 0.004,
+     "p_model": 0.009,
+     "value": null
+    },
+    {
+     "horse_name": "Fosshaug Frasse",
+     "number": 15,
+     "p_crowd": 0.013,
+     "p_model": 0.019,
+     "value": 1.44
+    }
+   ]
+  },
+  {
+   "leg": 6,
+   "starters": [
+    {
+     "horse_name": "Devilish",
+     "number": 3,
+     "p_crowd": 0.074,
+     "p_model": 0.086,
+     "value": 1.16
+    },
+    {
+     "horse_name": "Nordic Choice",
+     "number": 4,
+     "p_crowd": 0.005,
+     "p_model": 0.012,
+     "value": 2.26
+    },
+    {
+     "horse_name": "Conrads Ove",
+     "number": 5,
+     "p_crowd": 0.297,
+     "p_model": 0.285,
+     "value": 0.96
+    },
+    {
+     "horse_name": "Chicago News",
+     "number": 6,
+     "p_crowd": 0.003,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Haylee Eagra",
+     "number": 7,
+     "p_crowd": 0.199,
+     "p_model": 0.159,
+     "value": 0.8
+    },
+    {
+     "horse_name": "Valuga",
+     "number": 8,
+     "p_crowd": 0.003,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Rob Roy Boko",
+     "number": 9,
+     "p_crowd": 0.312,
+     "p_model": 0.317,
+     "value": 1.02
+    },
+    {
+     "horse_name": "Atmospere",
+     "number": 10,
+     "p_crowd": 0.01,
+     "p_model": 0.022,
+     "value": 2.16
+    },
+    {
+     "horse_name": "Laruns",
+     "number": 11,
+     "p_crowd": 0.01,
+     "p_model": 0.016,
+     "value": 1.7
+    },
+    {
+     "horse_name": "Vince Wynn",
+     "number": 12,
+     "p_crowd": 0.086,
+     "p_model": 0.086,
+     "value": 1.0
+    }
+   ]
+  },
+  {
+   "leg": 7,
+   "starters": [
+    {
+     "horse_name": "My Honky Tonk Man",
+     "number": 1,
+     "p_crowd": 0.052,
+     "p_model": 0.075,
+     "value": 1.45
+    },
+    {
+     "horse_name": "Bank Angel",
+     "number": 2,
+     "p_crowd": 0.006,
+     "p_model": 0.011,
+     "value": 2.08
+    },
+    {
+     "horse_name": "Any Given Sunday",
+     "number": 3,
+     "p_crowd": 0.02,
+     "p_model": 0.031,
+     "value": 1.57
+    },
+    {
+     "horse_name": "Sir Tooma",
+     "number": 4,
+     "p_crowd": 0.007,
+     "p_model": 0.016,
+     "value": 2.2
+    },
+    {
+     "horse_name": "Ugalli",
+     "number": 5,
+     "p_crowd": 0.107,
+     "p_model": 0.108,
+     "value": 1.01
+    },
+    {
+     "horse_name": "Pineapple",
+     "number": 6,
+     "p_crowd": 0.087,
+     "p_model": 0.086,
+     "value": 0.99
+    },
+    {
+     "horse_name": "Great Old Dance",
+     "number": 7,
+     "p_crowd": 0.656,
+     "p_model": 0.558,
+     "value": 0.85
+    },
+    {
+     "horse_name": "Vixi Garbo",
+     "number": 8,
+     "p_crowd": 0.002,
+     "p_model": 0.01,
+     "value": null
+    },
+    {
+     "horse_name": "Joker Ima",
+     "number": 9,
+     "p_crowd": 0.032,
+     "p_model": 0.046,
+     "value": 1.42
+    },
+    {
+     "horse_name": "Perseus Digital",
+     "number": 10,
+     "p_crowd": 0.001,
+     "p_model": 0.009,
+     "value": null
+    },
+    {
+     "horse_name": "Legligin",
+     "number": 11,
+     "p_crowd": 0.03,
+     "p_model": 0.049,
+     "value": 1.63
+    }
+   ]
+  },
+  {
+   "leg": 8,
+   "starters": [
+    {
+     "horse_name": "Myrsjös Tage",
+     "number": 1,
+     "p_crowd": 0.003,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Justcantgetenough",
+     "number": 2,
+     "p_crowd": 0.16,
+     "p_model": 0.12,
+     "value": 0.75
+    },
+    {
+     "horse_name": "Timotejs Messenger",
+     "number": 3,
+     "p_crowd": 0.007,
+     "p_model": 0.016,
+     "value": 2.16
+    },
+    {
+     "horse_name": "Griffin Kronos",
+     "number": 4,
+     "p_crowd": 0.336,
+     "p_model": 0.342,
+     "value": 1.02
+    },
+    {
+     "horse_name": "Take Him Sober",
+     "number": 5,
+     "p_crowd": 0.028,
+     "p_model": 0.049,
+     "value": 1.75
+    },
+    {
+     "horse_name": "Unicum",
+     "number": 7,
+     "p_crowd": 0.104,
+     "p_model": 0.106,
+     "value": 1.01
+    },
+    {
+     "horse_name": "Macho Cabrio B.B.",
+     "number": 8,
+     "p_crowd": 0.004,
+     "p_model": 0.008,
+     "value": null
+    },
+    {
+     "horse_name": "Readly Winner",
+     "number": 9,
+     "p_crowd": 0.068,
+     "p_model": 0.068,
+     "value": 1.01
+    },
+    {
+     "horse_name": "Monte Rei",
+     "number": 10,
+     "p_crowd": 0.195,
+     "p_model": 0.173,
+     "value": 0.89
+    },
+    {
+     "horse_name": "Celtic Tonga",
+     "number": 11,
+     "p_crowd": 0.013,
+     "p_model": 0.018,
+     "value": 1.33
+    },
+    {
+     "horse_name": "Florenzo",
+     "number": 12,
+     "p_crowd": 0.081,
+     "p_model": 0.092,
+     "value": 1.13
+    }
+   ]
+  }
+ ],
+ "message": null,
+ "model_version": "2026-10-08_v1-2",
+ "predicted_at": "2026-10-17T12:44:30+00:00",
+ "scheme": 1,
+ "spec": "market_binary",
+ "stop_time": "2026-10-17T15:00:00+02:00",
+ "track": "Gävle"
+}
