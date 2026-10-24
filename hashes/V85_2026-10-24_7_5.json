@@ -1,0 +1,13 @@
+{
+ "algorithm": "sha256(salt_hex + newline + file bytes)",
+ "code_commit": "845308f",
+ "committed_at": "2026-10-24T12:35:47+00:00",
+ "file_bytes": 13741,
+ "file_name": "prediction.json",
+ "game_id": "V85_2026-10-24_7_5",
+ "hash": "904425a7b6d8b8e27cbd32049bd3fb4a35a55964f950b43c55b41c361d5e7c76",
+ "minutes_before_stop": 24,
+ "model_version": "2026-10-08_v1-2",
+ "scheme": 1,
+ "stop_time": "2026-10-24T15:00:00+02:00"
+}
